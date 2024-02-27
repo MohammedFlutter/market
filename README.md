@@ -4,7 +4,7 @@ This Flutter application utilizes a fake API provided by [dummyjson.com](https:/
 
 ## Key Features:
 
-- **Code Generation:** The project leverages code generation tools including Freezed, Retrofit, and Injectable for efficient and type-safe development.
+- **Code Generation:** The project leverages code generation tools including Freezed, Retrofit, and Injectable for efficient and fast development.
 
 - **MVVM Architecture:** The app follows the Model-View-ViewModel (MVVM) architecture pattern to ensure a clean and organized codebase.
 
